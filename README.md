@@ -1,16 +1,7 @@
-# home_screen
+# LDSW 3.5 – Home Screen
 
-A new Flutter project.
+## Descripción de la actividad:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Se diseñó la pantalla de inicio de una aplicación Flutter.
+- Se implementó un layout utilizando los widgets: `Stack`, `Column`, `Text`, `Image.asset` y `CircleAvatar`.
+- La pantalla muestra una imagen de fondo, un icono central de palomitas, un texto de bienvenida y el texto "Hello World".
